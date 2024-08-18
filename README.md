@@ -1,2 +1,2 @@
-# Venta de Discos utilizando python 
+# Disc Store using Python
  
